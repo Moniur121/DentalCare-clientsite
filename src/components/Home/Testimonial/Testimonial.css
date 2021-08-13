@@ -1,0 +1,7 @@
+.testimonials .container{
+    background-image: url('../../images//quote.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 150px;
+    /* background-color: aqua; */
+}

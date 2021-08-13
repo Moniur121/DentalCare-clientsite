@@ -1,0 +1,23 @@
+ .counting-appointment{
+     justify-content: space-around;
+     align-items: center;
+ }
+ /* ...... card.... */
+ .dashboard-card{
+     background-color: #F1536E;
+     color: white;
+     border-radius: 10px;
+     cursor: pointer;
+ }
+ .dashboard-table{
+     background-color:whitesmoke;
+     padding: 15px;
+     border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+ }
+ .dashboard-bg{
+     background-color: #e0ebe8e8;
+     min-height: 700px;
+ }
+ 

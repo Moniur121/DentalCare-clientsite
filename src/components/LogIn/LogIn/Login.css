@@ -1,0 +1,32 @@
+.loginBtn{
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    padding: 280px 100px;
+}
+/* .login-area{
+    margin-top: 20%;
+    margin-left: 40%;
+} */
+.google-btn{
+    margin-top: 20%;
+    margin-left: 30%;
+    width: 250px;
+    height: 45px;
+    background-color: #7FFFD4;
+    color: #474F62;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.logIn-section{
+    min-height: 620px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-position: center center; 
+    background: linear-gradient(0deg, rgba(3, 10, 12, 0.5), rgba(3, 15, 19, 0.5)), url('../../images/appointmentBg.png') repeat;
+}

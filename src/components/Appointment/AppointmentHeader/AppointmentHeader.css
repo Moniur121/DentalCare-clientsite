@@ -1,0 +1,12 @@
+.calender-area{
+     box-shadow: 0px 6px 10px 5px gray!important;
+     border-radius:10px;
+     -webkit-border-radius:10px;
+     -moz-border-radius:10px;
+     -ms-border-radius:10px;
+     -o-border-radius:10px;
+     background-color: whitesmoke!important;
+     color: aqua;
+     font-size: 20px;
+     padding: 5px;
+}

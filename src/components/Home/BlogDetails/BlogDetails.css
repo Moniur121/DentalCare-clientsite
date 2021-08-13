@@ -1,0 +1,27 @@
+ 
+/* .testimonial-area:hover{
+    cursor: pointer;
+} */
+
+
+.blog-cardEffect{
+    position: relative;
+}
+.hover-content{
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    font-size: 20px;
+    left: 0;
+    color: #67747B;
+    background: rgba(0, 255, 255, 0.89);
+    background-image: url('../../images/quote.png');
+    transition:all 0.5s ease-in-out
+}
+.blog-cardEffect:hover .hover-content{
+    opacity: 1;
+    visibility: visible;
+   
+}
